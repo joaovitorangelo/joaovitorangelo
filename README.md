@@ -1,5 +1,3 @@
-#
-
 <h3 align="left">Stack</h3>
 
 <div align="left">
@@ -14,6 +12,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="php logo" />
   <img width="8" />
 </div>
-
-#
 
